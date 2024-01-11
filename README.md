@@ -1,4 +1,4 @@
-自用clash科研规则![image-20240111143312723](D:\Data\Code\Rule\assets\image-20240111143312723.png)
+自用clash科研规则![image-20240111143312723]https://github.com/xylx521/Rule/blob/master/assets/image-20240111143312723.png
 
 ```clash
 

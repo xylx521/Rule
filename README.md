@@ -1,4 +1,4 @@
-自用clash科研规则![image-20240111143312723](C:\Users\xylx521\AppData\Roaming\Typora\typora-user-images\image-20240111143312723.png)
+自用clash科研规则![image-20240111143312723](D:\Data\Code\Rule\assets\image-20240111143312723.png)
 
 ```clash
 

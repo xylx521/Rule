@@ -1,4 +1,6 @@
-自用clash科研规则![image](https://github.com/xylx521/Rule/blob/master/assets/image-20240111143312723.png)
+自用clash科研规则
+
+![image](https://github.com/xylx521/Rule/blob/master/assets/image-20240111143312723.png)
 
 ```clash
 

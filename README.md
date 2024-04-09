@@ -13,7 +13,6 @@
     - DOMAIN-KEYWORD,docs,DIRECT
     - DOMAIN-KEYWORD,onenote,DIRECT
     - DOMAIN-KEYWORD,office,DIRECT
-    - DOMAIN-KEYWORD,microsoft,DIRECT
     - DOMAIN-SUFFIX,digicert.com,DIRECT
     - DOMAIN-SUFFIX,sciencedirect.com,DIRECT
     - DOMAIN-SUFFIX,iresearchbook.cn,DIRECT
@@ -22,6 +21,6 @@
     - DOMAIN-SUFFIX,webofknowledge.com,DIRECT
     - DOMAIN-SUFFIX,pubs.acs.org,DIRECT
     - DOMAIN-SUFFIX,scitation.org,DIRECT
-    - DOMAIN-KEYWORD,deepl.com,DIRECT
+    - DOMAIN-SUFFIX,deepl.com,DIRECT
 
 ```

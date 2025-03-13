@@ -1,4 +1,4 @@
-自用clash科研规则
+自用clash科研规则，避免如校园网无法IP认证这些网站
 
 ![image](https://github.com/xylx521/Rule/blob/master/assets/image-20240111143312723.png)
 

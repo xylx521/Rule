@@ -1,5 +1,18 @@
 # === Tour de France 视频流媒体相关 ===
 DOMAIN-SUFFIX,sportschau.de
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,sso.sportschau.de
+DOMAIN-SUFFIX,pa-cd.com
+DOMAIN-SUFFIX,h-cdn.com
+DOMAIN-SUFFIX,nmrodam.com
+DOMAIN-SUFFIX,ard-mcdn.de
+DOMAIN-SUFFIX,ard.de
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,sand-hub.ard.de
+DOMAIN-SUFFIX,images.sportschau.de
+DOMAIN-SUFFIX,player.h-cdn.com
+DOMAIN-SUFFIX,sportschau.de
 DOMAIN-SUFFIX,images.sportschau.de
 DOMAIN-SUFFIX,sso.sportschau.de
 DOMAIN-SUFFIX,ard.de
